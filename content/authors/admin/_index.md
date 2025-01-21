@@ -1,29 +1,29 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Dr. Joseph Matt
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Joseph
+last_name: Matt
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Chief Executive Officer
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Texas A&M University - Corpus Christi; Texas A&M AgriLife
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My polyploid history here.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Joey interest 1
+  - Joey interest 2
+  - Joey interest 3
 
 education:
   courses:
